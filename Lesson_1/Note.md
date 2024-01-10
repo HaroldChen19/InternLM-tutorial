@@ -1,5 +1,5 @@
 # 书生·浦语大模型全链路开源开放体系
-This is my course notes of the first class of InternLM-Boot-Camp
+This is my course note of the first class of InternLM-Boot-Camp
 
 ## Data: 书生·万卷
 
