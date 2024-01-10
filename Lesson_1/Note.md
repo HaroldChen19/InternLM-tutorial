@@ -69,7 +69,7 @@ XTuner:
     - 量化、推理、服务全流程
     - 无缝衔接OpenCompass评测推理精度
     - 和OpenAI接口高度兼容的API server
-
+ 
 ## Application: Lagent Agentlego 
 
 LLM的局限性：
