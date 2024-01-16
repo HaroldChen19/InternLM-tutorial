@@ -1,2 +1,2 @@
 # InternLM-Boot-Camp 
-2024书生·浦语大模型实战营-作业记录
+It's the repo of my assignments of InternLM boot camp 2024 held by Shanghai AI Laboratory.
