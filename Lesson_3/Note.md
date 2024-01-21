@@ -1,5 +1,5 @@
 # 基于InternLM和LangChain搭建你的知识库
-This is my course notes of the 3nd class of InternLM-Boot-Camp
+This is my course notes of the 3nd class of InternLM-Tutorial
 
 ## 大模型开发范式
 
