@@ -1,5 +1,5 @@
 # 轻松分钟玩转书生·浦语大模型趣味 Demo
-This is my course notes of the 2nd class of InternLM-Boot-Camp
+This is my course notes of the 2nd class of InternLM-Tutorial
 
 ## 大模型及InternLM模型介绍
 
