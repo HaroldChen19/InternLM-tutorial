@@ -1,5 +1,5 @@
 # XTuner大模型单卡低成本微调实践
-This is my course notes of the 4nd class of InternLM-Boot-Camp
+This is my course notes of the 4nd class of InternLM-Tutorial
 
 ## Finetune简介
 
